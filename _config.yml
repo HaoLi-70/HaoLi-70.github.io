@@ -8,7 +8,7 @@ logo:               'assets/img/aa.png'
 background:         'assets/img/placeholder.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://github.com/HaoLi-70/
+url:                https://haoli-70.github.io
 
 # Jekyll
 permalink:          /:title/
