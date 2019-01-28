@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "Inversion of Stokes Profiles"
+date:   2019-01-28
+excerpt: "Stokes inversion techniques, the analysis of the polarization in spectral lines, are the most powerful tools to obtain the information about the magnetic and thermodynamic quantities in the solar at- mosphere."
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
+- inversion
 - theme
 comments: true
 ---
