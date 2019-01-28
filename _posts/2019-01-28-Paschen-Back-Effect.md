@@ -18,7 +18,7 @@ where $$ H_0 $$ and $$ H_B $$ are the unperturbed and magnetic Hamiltonians, res
 
 $$ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}+\frac{e_0^2}{8mc^2}(\vec{B}\times\vec{r})^2.$$
 
-The second term is the so called diamagnetic term, and not important except for extremely large fields. If the diamagnetic term is neglected, the magnetic Hailtonian can be rewrite
+The second term is the so called diamagnetic term, and not important except for extremely large fields. If the diamagnetic term is neglected, the magnetic Hailtonian can be written as
 
 $$ H_b=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\nu_0(\vec{L}+2\vec{S})\cdot\vec{B}. $$
 
