@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Inversion of Stokes Profiles"
-date:   2019-01-28
+date:   2019-01-27
 excerpt: "Stokes inversion techniques, the analysis of the polarization in spectral lines, are the most powerful tools to obtain the information about the magnetic and thermodynamic quantities in the solar at- mosphere."
 project: true
 tag:
@@ -101,26 +101,6 @@ Set your disqus shortname in `_config.yml` to use comments.
 
 ---
 
-### Navigation Links
-
-To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL and title for as many links as you'd like. *External links will open in a new window.*
-
-{% highlight yaml %}
-- title: Home
-  url: /
-
-- title: Blog
-  url: /blog/
-
-- title: Projects
-  url: /projects/
-
-- title: About
-  url: /about/
-
-- title: Moon
-  url: http://taylantatli.me/Moon
-{% endhighlight %}
 
 ---
 
@@ -146,12 +126,3 @@ To show disqus comments for your post add `comments: true` to your post's front 
 
 ---
 
-## Questions?
-
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
-
----
-
-## License
-
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
