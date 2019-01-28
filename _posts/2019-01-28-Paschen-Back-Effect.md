@@ -28,6 +28,9 @@ The matrix element is given by
 
 where $$ \vec{b} $$ is a unit vector in the magnetic field direction.
 
+# Zeeman Effect
+
+# Paschen-Back Effect
 
 
 
