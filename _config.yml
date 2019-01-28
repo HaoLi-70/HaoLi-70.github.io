@@ -13,7 +13,7 @@ url:                https://haoli-70.github.io
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-mathjax: true
+mathjax:            true
 highlighter:        rouge
 kramdown:
   auto_ids:         true
