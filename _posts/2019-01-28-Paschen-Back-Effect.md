@@ -20,8 +20,13 @@ $$ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}+\frac{e_0^2}{8mc^2}(\v
 
 The second term is the so called diamagnetic term, and not important except for extremely large fields. If the diamagnetic term is neglected, the magnetic Hailtonian can be written as
 
-$$ H_b=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\nu_0(\vec{L}+2\vec{S})\cdot\vec{B}. $$
+$$ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\nu_0(\vec{L}+2\vec{S})\cdot\vec{B}. $$
 
+The matrix element is given by
+
+$$ <\alpha JM|H_B|\alpha JM'>=\nu_0B<\alpha JM|(\vec{J}+\vec{B})\cdot \vec{b}|\alpha JM'> $$
+
+where $$ \vec{b} $$ is a unit vector in the magnetic field direction.
 
 
 
