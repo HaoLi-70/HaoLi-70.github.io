@@ -6,7 +6,7 @@ excerpt: "Stokes inversion techniques, the analysis of the polarization in spect
 project: true
 tag:
 - inversion
-- theme
+- polarization
 comments: true
 ---
 
