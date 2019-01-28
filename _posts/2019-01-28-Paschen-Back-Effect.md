@@ -11,6 +11,10 @@ comments: true
 
 # Hamiltonian
 The total Hamiltonian of an atom in a magnetic field is given by
+
+\\[ \frac{1}{n^{2}} \\]
+
+
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
 where
 <img src="http://chart.googleapis.com/chart?cht=tx&chl= x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
