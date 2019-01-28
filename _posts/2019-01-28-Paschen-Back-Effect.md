@@ -24,7 +24,7 @@ $$ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\nu_0(\vec{L}+2\vec{S}
 
 The matrix element is given by
 
-\[ <\alpha JM|H_B|\alpha JM'>=\nu_0B<\alpha JM|(\vec{J}+\vec{B})\cdot \vec{b}|\alpha JM' \]
+\[ \alpha JM|H_B|\alpha JM'>=\nu_0B<\alpha JM|(\vec{J}+\vec{B})\cdot \vec{b}|\alpha JM' \]
 
 where $$ \vec{b} $$ is a unit vector in the magnetic field direction.
 
@@ -112,7 +112,4 @@ You can also use `<kbd>` tag for keyboard buttons.
 
 Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midtown Maddness!!**
 
-## Notices
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
