@@ -4,7 +4,7 @@ bio:                'Everyday is a new world.'
 description:        "Don't walk behind me, I may not lead. Don't walk in front of me, I may not follow. Just walk beside me and be my friend."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/Logo.jpeg'
+logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
