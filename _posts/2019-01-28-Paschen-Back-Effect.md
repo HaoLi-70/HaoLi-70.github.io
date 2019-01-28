@@ -10,9 +10,11 @@ comments: true
 ---
 
 # Hamiltonian
-The total Hamiltonian of an atom in a magnetic field is given by
+The total Hamiltonian $$ H $$ of an atom in a magnetic field is given by
 
-$$ H=H_0+H_B $$
+$$ H=H_0+H_B, $$
+
+where $$ H_0 $$ and $$ H_B $$ are the unperturbed and magnetic Hamiltonians, respectively. The magnetic Hamiltonian $$ H_B $$ is given by 
 
 \\[ \frac{1}{n^{2}} \\]
 
