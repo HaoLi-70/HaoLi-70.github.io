@@ -15,6 +15,8 @@ The total Hamiltonian of an atom in a magnetic field is given by
 where
 <img src="http://chart.googleapis.com/chart?cht=tx&chl= x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
 
+$$p(x) = \prod_{j=1}^{n}p(x_{j};\mu_{j},\sigma_{j}^{2})$$
+
 
 # Heading 1
 
