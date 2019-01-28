@@ -12,7 +12,7 @@ comments: true
 # Hamiltonian
 The total Hamiltonian of an atom in a magnetic field is given by
 
-$ H=H_0+H_B $
+$$ H=H_0+H_B $$
 
 \\[ \frac{1}{n^{2}} \\]
 
