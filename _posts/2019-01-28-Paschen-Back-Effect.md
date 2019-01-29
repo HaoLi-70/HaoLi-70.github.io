@@ -24,6 +24,8 @@ $$ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\mu_0(\vec{L}+2\vec{S}
 
 The matrix element is given by
 
+<$$ \alpha $$>
+
 <$$ \alpha JM|H_B|\alpha JM'>=\mu_0B<\alpha JM|(\vec{J}+\vec{B})\cdot \vec{b}|\alpha JM'  $$>
 
 $$ \alpha JM|H_B|\alpha JM'>=\mu_0B<\alpha JM|(\vec{J}+\vec{B})\cdot \vec{b}|\alpha JM' $$
