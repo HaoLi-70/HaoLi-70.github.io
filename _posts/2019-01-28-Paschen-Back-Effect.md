@@ -27,7 +27,7 @@ The matrix element is given by
 
 \|
 
-<$$ \alpha JM\| $$>
+<\[ \alpha JM| \]\| $$>
 
 <$$ \alpha JM|H_B|\alpha JM'>=\mu_0B<\alpha JM|(\vec{J}+\vec{B})\cdot \vec{b}|\alpha JM'  $$>
 
