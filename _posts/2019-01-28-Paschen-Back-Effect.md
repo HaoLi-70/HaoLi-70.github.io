@@ -22,6 +22,8 @@ The second term is the so called diamagnetic term, and not important except for 
 
 $$ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\mu_0(\vec{L}+2\vec{S})\cdot\vec{B}. $$
 
+# Zeeman Effect
+
 The matrix element is given by <$$\alpha JM$$\|$$H_B$$\|$$\alpha JM'$$>$$=\mu_0B$$<$$\alpha JM$$\|$$(\vec{J}+\vec{B})\cdot\vec{b}$$\|$$\alpha JM'$$>
 
 
@@ -35,7 +37,6 @@ $$ \alpha JM|H_B|\alpha JM'>=\mu_0B<\alpha JM|(\vec{J}+\vec{B})\cdot \vec{b}|\al
 |
 where $$ \vec{b} $$ is a unit vector in the magnetic field direction.
 
-# Zeeman Effect
 
 # Paschen-Back Effect
 
