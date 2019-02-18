@@ -25,7 +25,7 @@ The second term is the so called diamagnetic term, and not important except for 
 
 # Zeeman Effect
 
-In the weak external magnetic fields, the in teraction between the quantum numbers L and S is called LS coupling.&lt
+In the weak external magnetic fields, the in teraction between the orbital (\\(\vec{L}\\)) and spin (\\(\vec{S}\\)) angular momenta is called LS coupling.
 The matrix element is given by 
     
 \\[\lt\alpha JM \| H_B \| \alpha JM'\gt=\mu_0B\lt\alpha JM \| (\vec{J}+\vec{B})\cdot\vec{b} \| \alpha JM'\gt\\]
@@ -49,4 +49,10 @@ where g is the Lande factor. While the eigenvalues are given by
 
 # Paschen-Back Effect
 
+When the external magnetic field is sufficiently strong to disrupt the LS coupling (the splitting of the \\(J\\) level is comparable with the energy separation between different \\(J\\) levels ), the splitting of the atomic levels is called Paschen-Back effect.
 
+\\[\begin{split}
+\lt\alpha JM \| H_B \|\alpha 'J'M'\gt=&\mu_0B\sum\limits_{q}(-1)^{J'+M+q+1}\sqrt{2J+1} 
+\begin{pmatrix} J& J'& 1 \\\ -M& M'& q\end{pmatrix} \\\ 
+&\times[\sqrt{J(J+1)}\delta_{\alpha\alpha '}\delta_{JJ'}+\lt\alpha J\|\|\vec{S}\|\|\alpha 'J'\gt]b_{-q} 
+\end{split}\\]
