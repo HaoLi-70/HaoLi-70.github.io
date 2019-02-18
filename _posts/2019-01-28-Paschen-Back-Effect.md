@@ -11,7 +11,7 @@ comments: true
 
 # Hamiltonian
 The total Hamiltonian $$ H $$ of an atomic system in a magnetic field is given by
-
+$$\lt$$
 $$ H=H_0+H_B, $$
 
 where $$ H_0 $$ and $$ H_B $$ are the unperturbed and magnetic Hamiltonians, respectively. The magnetic Hamiltonian $$ H_B $$ is given by 
@@ -19,12 +19,11 @@ where $$ H_0 $$ and $$ H_B $$ are the unperturbed and magnetic Hamiltonians, res
 $$ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}+\frac{e_0^2}{8mc^2}(\vec{B}\times\vec{r})^2.$$
 
 The second term is the so called diamagnetic term, and not important except for extremely large fields. If the diamagnetic term is neglected, the magnetic Hailtonian can be written as
-&#60
+
 $$ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\mu_0(\vec{L}+2\vec{S})\cdot\vec{B}. $$
-/&#60
+
 # Zeeman Effect
-/<
-/$$<\vec{a} \cdot \vec b = 0$$
+
 In the weak external magnetic fields, the in teraction between the quantum numbers L and S is called LS coupling.&lt
 The matrix element is given by 
 
