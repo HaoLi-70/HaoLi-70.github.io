@@ -51,7 +51,7 @@ Land\\(\rm \acute{e}\\) interval rule
 
 \\[E_{\beta LS}(J)-E_{\beta LS}(J-1)=\zeta(\beta LS)J\\]
 
-# Paschen-Back Effect
+# Incomplete Paschen-Back Effect
 
 When the external magnetic field is sufficiently strong to disrupt the LS coupling (the splitting of the \\(J\\) level is comparable with the energy separation between different \\(J\\) levels ), the splitting of the atomic levels is called Paschen-Back effect.
 
@@ -71,7 +71,7 @@ When the quantization axis for \\(\vec{J}\\) is in the magnetic fiedl direction,
 
 
 
-
+# Complete Paschen-Back Effect
 
 When the external magnetic field is sufficiently strong to disrupt the LS coupling, the energy eigenvectors gradually evolve from the form \\(\|\beta LSJM>\\) to the form \\(\|\beta LSM_LM_S>\\). The eigenvalues are given by 
 
@@ -86,5 +86,5 @@ The ratio between the Zeeman splitting and the fine-structure energy is defined 
 Then we have:
 
 \\(\gamma\ll 1\\) Zeeman effect regime
-\\(\gamma\approx 1\\) incomplete Paschen-Back effect regime
-\\(\gamma\gg 1\\) complete Paschen-Back effect regime
+\\(\gamma\approx 1\\) Incomplete Paschen-Back effect regime
+\\(\gamma\gg 1\\) Complete Paschen-Back effect regime
