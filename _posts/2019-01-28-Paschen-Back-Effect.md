@@ -54,5 +54,13 @@ When the external magnetic field is sufficiently strong to disrupt the LS coupli
 \\[\begin{split}
 \lt\alpha JM \| H_B \|\alpha 'J'M'\gt=&\mu_0B\sum\limits_{q}(-1)^{J'+M+q+1}\sqrt{2J+1} 
 \begin{pmatrix} J& J'& 1 \\\ -M& M'& q\end{pmatrix} \\\ 
-&\times[\sqrt{J(J+1)}\delta_{\alpha\alpha '}\delta_{JJ'}+\lt\alpha J\|\|\vec{S}\|\|\alpha 'J'\gt]b_{-q} 
+&\times\[\sqrt{J(J+1)}\delta_{\alpha\alpha '}\delta_{JJ'}+\lt\alpha J\|\|\vec{S}\|\|\alpha 'J'\gt\]b_{-q} 
+\end{split}\\]
+
+When the quantization axis for \\(\vec{J}\\) is in the magnetic fiedl direction,
+
+\\[\begin{split}
+\lt\alpha JM \| H_B \|\alpha 'J'M'\gt=&\mu_0B\[M\delta_{\alpha\alpha '}\delta_{JJ'}+(-1)^{J'+M+q+1}\sqrt{2J+1} 
+\begin{pmatrix} J& J'& 1 \\\ -M& M'& q\end{pmatrix} \\\ 
+&\times[\sqrt{J(J+1)}\delta_{\alpha\alpha '}\delta_{JJ'}+\lt\alpha J\|\|\vec{S}\|\|\alpha 'J'\gt\]\delta_{MM'}
 \end{split}\\]
