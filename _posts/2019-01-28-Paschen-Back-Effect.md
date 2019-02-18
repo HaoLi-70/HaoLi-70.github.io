@@ -47,6 +47,10 @@ where g is the Lande factor. While the eigenvalues are given by
 
 \\[E_{\alpha J}+\mu_0gBM\\]
 
+# Land\\(\rm \acute{e}\\) interval rule
+
+\\[E_{\beta LS}(J)-E_{\beta LS}(J-1)=\zeta(\beta LS)J\\]
+
 # Paschen-Back Effect
 
 When the external magnetic field is sufficiently strong to disrupt the LS coupling (the splitting of the \\(J\\) level is comparable with the energy separation between different \\(J\\) levels ), the splitting of the atomic levels is called Paschen-Back effect.
@@ -60,7 +64,13 @@ When the external magnetic field is sufficiently strong to disrupt the LS coupli
 When the quantization axis for \\(\vec{J}\\) is in the magnetic fiedl direction,
 
 \\[\begin{split}
-\lt\alpha JM \| H_B \|\alpha 'J'M'\gt=&\mu_0B\[M\delta_{\alpha\alpha '}\delta_{JJ'}+(-1)^{J'+M+q+1}\sqrt{2J+1} 
+\lt\alpha JM \| H_B \|\alpha'J'M'\gt=&\mu_0B\[M\delta_{\alpha\alpha'}\delta_{JJ'}+(-1)^{J'+M+q+1}\sqrt{2J+1} 
 \begin{pmatrix} J& J'& 1 \\\ -M& M'& q\end{pmatrix} \\\ 
-&\times[\sqrt{J(J+1)}\delta_{\alpha\alpha '}\delta_{JJ'}+\lt\alpha J\|\|\vec{S}\|\|\alpha 'J'\gt\]\delta_{MM'}
+&\times[\sqrt{J(J+1)}\delta_{\alpha\alpha'}\delta_{JJ'}+\lt\alpha J\|\|\vec{S}\|\|\alpha 'J'\gt\]\delta_{MM'}
 \end{split}\\]
+
+
+
+
+
+When the external magnetic field is sufficiently strong to disrupt the LS coupling
