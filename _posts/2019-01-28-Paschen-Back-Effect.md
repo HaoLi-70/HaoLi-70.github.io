@@ -47,7 +47,7 @@ where g is the Lande factor. While the eigenvalues are given by
 
 \\[E_{\alpha J}+\mu_0gBM\\]
 
-# Land\\(\rm \acute{e}\\) interval rule
+Land\\(\rm \acute{e}\\) interval rule
 
 \\[E_{\beta LS}(J)-E_{\beta LS}(J-1)=\zeta(\beta LS)J\\]
 
