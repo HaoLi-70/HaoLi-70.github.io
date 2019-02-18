@@ -27,7 +27,8 @@ $$ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\mu_0(\vec{L}+2\vec{S}
 /$$<\vec{a} \cdot \vec b = 0$$
 In the weak external magnetic fields, the in teraction between the quantum numbers L and S is called LS coupling.&lt
 The matrix element is given by 
-<center> $$<\alpha JM$$\|$$H_B$$\|$$\alpha JM'>$$ $$=\mu_0B$$<$$\alpha JM$$\|$$(\vec{J}+\vec{B})\cdot\vec{b}$$\|$$\alpha JM'$$><\center>
+<center> 
+/$$<\alpha JM$$\|$$H_B$$\|$$\alpha JM'>$$ $$=\mu_0B$$<$$\alpha JM$$\|$$(\vec{J}+\vec{B})\cdot\vec{b}$$\|$$\alpha JM'$$><\center>
 In the spherical components,
 <center> <$$\alpha JM$$\|$$H_B$$\|$$\alpha JM'$$>$$=\mu_0B\sum\limits_{q}$$<$$\alpha JM$$\|$$(\vec{J}+\vec{B})\cdot\vec{b}$$\|$$\alpha JM'$$>
 <\center>   
