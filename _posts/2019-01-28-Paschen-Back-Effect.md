@@ -37,7 +37,7 @@ $$\lt\alpha JM$$\|$$H_B$$\|$$\alpha JM'\gt=\mu_0B\sum\limits_{q}(-1)^{J+M+q+1}\s
 
 
 \\[ \begin{matrix} 
-{J}& {J}$ {1}\\ 
+{J}& {J}& {1}\\ 
 {-M}& {M'}& {q}\\
 \end{matrix} \\]
 
