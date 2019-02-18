@@ -31,7 +31,7 @@ The matrix element is given by
 \\[\lt\alpha JM \| H_B \| \alpha JM'\gt=\mu_0B\lt\alpha JM \| (\vec{J}+\vec{B})\cdot\vec{b} \| \alpha JM'\gt\\]
 
 where $$ \vec{b} $$ is a unit vector in the magnetic field direction.
-In the spherical components,
+In the spherical components, we have
 
 \\[\begin{split}
 \lt\alpha JM \| H_B \|\alpha JM'\gt=&\mu_0B\sum\limits_{q}(-1)^{J+M+q+1}\sqrt{2J+1} 
@@ -39,6 +39,13 @@ In the spherical components,
 &\times(\sqrt{J(J+1)}+\lt\alpha J\|\|\vec{S}\|\|\alpha J\gt)b_{-q} 
 \end{split}\\]
 
+Aligning the \\(z\\)-axis of reference system with the direction of the magnetic field, the only non-zero component of the unit vector \\(\vec{b}\\) is \\(b_0=1\\). Therefore
+
+\\[<\alpha JM\|H_B\|\alpha JM'>=\mu_0BgM\delta_{MM'}\\]
+
+where g is the Lande factor. While the eigenvalues are given by
+
+\\[E_{\alpha J}+\mu_0gBM\\]
 
 # Paschen-Back Effect
 
