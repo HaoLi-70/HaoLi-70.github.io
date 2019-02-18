@@ -77,4 +77,8 @@ When the external magnetic field is sufficiently strong to disrupt the LS coupli
 
 \\[<\beta LSM_LM_S\|H_B\|\betaLSM_LM_S>=\nu_0B(M_L+2M_S).\\]
 
+# Summary
 
+|\\(\gamma\ll 1\\) | \\(\gamma\approx 1\\)|\\(\gamma\gg 1\\)|
+|------|------|------|
+|Zeeman effect regime|incomplete Paschen-Back effect regime|complete Paschen-Back effect regime|
