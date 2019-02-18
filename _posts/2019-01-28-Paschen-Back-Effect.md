@@ -33,7 +33,7 @@ The matrix element is given by
 where $$ \vec{b} $$ is a unit vector in the magnetic field direction.
 In the spherical components,
 
-\\[\lt\alpha JM \| H_B \|\alpha JM'\gt=\mu_0B\sum\limits_{q}(-1)^{J+M+q+1}\sqrt{2J+1} \begin{pmatrix} J& J& 1 \\\ -M& M'& q\end{pmatrix} \times(\sqrt{J(J+1)}+\lt\alpha J\||\vec{S}\||\alpha J\gt)b_{-q} \\]
+\\[\lt\alpha JM \| H_B \|\alpha JM'\gt=\mu_0B\sum\limits_{q}(-1)^{J+M+q+1}\sqrt{2J+1} \begin{pmatrix} J& J& 1 \\\ -M& M'& q\end{pmatrix} \times(\sqrt{J(J+1)}+\lt\alpha J\|\|\vec{S}\|\|\alpha J\gt)b_{-q} \\]
 
 
 
