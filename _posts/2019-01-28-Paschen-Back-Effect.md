@@ -73,4 +73,4 @@ When the quantization axis for \\(\vec{J}\\) is in the magnetic fiedl direction,
 
 
 
-When the external magnetic field is sufficiently strong to disrupt the LS coupling
+When the external magnetic field is sufficiently strong to disrupt the LS coupling, the energy eigenvectors gradually evolve from the form \\(\|\beta LSJM>\\) to the form \\(\|\beta LSM_LM_S<\\)
