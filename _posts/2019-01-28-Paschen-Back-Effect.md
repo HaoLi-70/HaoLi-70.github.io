@@ -75,10 +75,16 @@ When the quantization axis for \\(\vec{J}\\) is in the magnetic fiedl direction,
 
 When the external magnetic field is sufficiently strong to disrupt the LS coupling, the energy eigenvectors gradually evolve from the form \\(\|\beta LSJM>\\) to the form \\(\|\beta LSM_LM_S>\\). The eigenvalues are given by 
 
-\\[<\beta LSM_LM_S\|H_B\|\betaLSM_LM_S>=\nu_0B(M_L+2M_S).\\]
+\\[<\beta LSM_LM_S\|H_B\|\beta LSM_LM_S>=\nu_0B(M_L+2M_S).\\]
 
 # Summary
 
-|\\(\gamma\ll 1\\) | \\(\gamma\approx 1\\)|\\(\gamma\gg 1\\)|
-|------|------|------|
-|Zeeman effect regime|incomplete Paschen-Back effect regime|complete Paschen-Back effect regime|
+The ratio between the Zeeman splitting and the fine-structure energy is defined by
+
+\\[\gamma=\frac{\mu_0B}{\zeta}.\\]
+
+Then we have
+
+ \\(\gamma\ll 1\\) | \\(\gamma\approx 1\\) | \\(\gamma\gg 1\\)
+-|-|-
+Zeeman effect regime|incomplete Paschen-Back effect regime|complete Paschen-Back effect regime
