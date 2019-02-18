@@ -36,7 +36,7 @@ c$$\lt\alpha JM \| $$
 d$$\lt\alpha JM $$|
 
 
-$$<\alpha JM$$\|$$H_B$$\|$$\alpha JM'>$$ $$=\mu_0B$$<$$\alpha JM$$\|$$(\vec{J}+\vec{B})\cdot\vec{b}$$\|$$\alpha JM'$$>
+$$\lt\alpha JM$$\|$$H_B$$\|$$\alpha JM'\gt=\mu_0B\lt\alpha JM$$\|$$(\vec{J}+\vec{B})\cdot\vec{b}$$\|$$\alpha JM'\gt$$
 
 In the spherical components,
 <$$\alpha JM$$\|$$H_B$$\|$$\alpha JM'$$>$$=\mu_0B\sum\limits_{q}$$<$$\alpha JM$$\|$$(\vec{J}+\vec{B})\cdot\vec{b}$$\|$$\alpha JM'$$>
