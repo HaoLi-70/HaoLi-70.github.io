@@ -24,8 +24,6 @@ $$ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\mu_0(\vec{L}+2\vec{S}
 
 # Zeeman Effect
 
-&#124
-
 In the weak external magnetic fields, the in teraction between the quantum numbers L and S is called LS coupling.&lt
 The matrix element is given by 
     
