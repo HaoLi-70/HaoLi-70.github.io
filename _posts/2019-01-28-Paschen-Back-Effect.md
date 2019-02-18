@@ -45,13 +45,7 @@ J& J$ 1\\
 \end{matrix}
 $$
 
-<\[ \alpha JM| \]\| >
 
-<$$ \alpha JM|H_B|\alpha JM'>=\mu_0B<\alpha JM|(\vec{J}+\vec{B})\cdot \vec{b}|\alpha JM'  $$>
-
-$$ \alpha JM|H_B|\alpha JM'>=\mu_0B<\alpha JM|(\vec{J}+\vec{B})\cdot \vec{b}|\alpha JM' $$
-
-$|$$$|$$
 
 # Paschen-Back Effect
 
