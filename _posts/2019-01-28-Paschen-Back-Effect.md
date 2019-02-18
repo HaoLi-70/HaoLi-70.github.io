@@ -12,6 +12,10 @@ comments: true
 # Hamiltonian
 The total Hamiltonian $$ H $$ of an atomic system in a magnetic field is given by
 
+<code>H=H_0+H_B,</code>
+
+<code>$$ H=H_0+H_B, $$</code>
+
 $$ H=H_0+H_B, $$
 
 where $$ H_0 $$ and $$ H_B $$ are the unperturbed and magnetic Hamiltonians, respectively. The magnetic Hamiltonian $$ H_B $$ is given by 
