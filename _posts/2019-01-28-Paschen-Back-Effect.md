@@ -43,7 +43,7 @@ Aligning the \\(z\\)-axis of reference system with the direction of the magnetic
 
 \\[<\alpha JM\|H_B\|\alpha JM'>=\mu_0BgM\delta_{MM'}\\]
 
-where g is the Lande factor. While the eigenvalues are given by
+where g is the Land\\(\rm \acute{e}\\) factor. While the eigenvalues are given by
 
 \\[E_{\alpha J}+\mu_0gBM\\]
 
@@ -73,4 +73,8 @@ When the quantization axis for \\(\vec{J}\\) is in the magnetic fiedl direction,
 
 
 
-When the external magnetic field is sufficiently strong to disrupt the LS coupling, the energy eigenvectors gradually evolve from the form \\(\|\beta LSJM>\\) to the form \\(\|\beta LSM_LM_S<\\)
+When the external magnetic field is sufficiently strong to disrupt the LS coupling, the energy eigenvectors gradually evolve from the form \\(\|\beta LSJM>\\) to the form \\(\|\beta LSM_LM_S>\\). The eigenvalues are given by 
+
+\\[<\beta LSM_LM_S\|H_B\|\betaLSM_LM_S>=\nu_0B(M_L+2M_S).\\]
+
+
