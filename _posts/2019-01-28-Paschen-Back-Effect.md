@@ -12,10 +12,6 @@ comments: true
 # Hamiltonian
 The total Hamiltonian $$ H $$ of an atomic system in a magnetic field is given by
 
-<code>H=H_0+H_B,</code>
-
-<code>$$ H=H_0+H_B, $$</code>
-
 $$ H=H_0+H_B, $$
 
 where $$ H_0 $$ and $$ H_B $$ are the unperturbed and magnetic Hamiltonians, respectively. The magnetic Hamiltonian $$ H_B $$ is given by 
@@ -30,9 +26,15 @@ $$ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\mu_0(\vec{L}+2\vec{S}
 
 In the weak external magnetic fields, the in teraction between the quantum numbers L and S is called LS coupling.&lt
 The matrix element is given by 
-<code>|</code>
     
-$$\lt\alpha JM\left| $$
+a$$\lt\alpha JM \left| $$
+
+b$$\lt\alpha JM | $$
+
+c$$\lt\alpha JM \| $$
+
+d$$\lt\alpha JM $$|
+
 
 $$<\alpha JM$$\|$$H_B$$\|$$\alpha JM'>$$ $$=\mu_0B$$<$$\alpha JM$$\|$$(\vec{J}+\vec{B})\cdot\vec{b}$$\|$$\alpha JM'$$>
 
