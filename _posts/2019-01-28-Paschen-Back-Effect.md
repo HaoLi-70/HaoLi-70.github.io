@@ -11,7 +11,7 @@ comments: true
 
 # Hamiltonian
 
-$ H=H_0+H_B, $
+\\[ H=H_0+H_B, \\]
 
 The total Hamiltonian $$ H $$ of an atomic system in a magnetic field is given by
 
