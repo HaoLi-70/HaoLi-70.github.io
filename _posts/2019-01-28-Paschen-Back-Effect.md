@@ -21,19 +21,19 @@ where $$ H_0 $$ and $$ H_B $$ are the unperturbed and magnetic Hamiltonians, res
 
 The second term is the so called diamagnetic term, and not important except for extremely large fields. If the diamagnetic term is neglected, the magnetic Hailtonian can be written as
 
-$$ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\mu_0(\vec{L}+2\vec{S})\cdot\vec{B}. $$
+\\[ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\mu_0(\vec{L}+2\vec{S})\cdot\vec{B}. \\]
 
 # Zeeman Effect
 
 In the weak external magnetic fields, the in teraction between the quantum numbers L and S is called LS coupling.&lt
 The matrix element is given by 
     
-$$\lt\alpha JM$$\|$$H_B$$\|$$\alpha JM'\gt=\mu_0B\lt\alpha JM$$\|$$(\vec{J}+\vec{B})\cdot\vec{b}$$\|$$\alpha JM'\gt$$
+\\[\lt\alpha JM \| H_B \| \alpha JM'\gt=\mu_0B\lt\alpha JM \| (\vec{J}+\vec{B})\cdot\vec{b} \| \alpha JM'\gt\\]
 
 where $$ \vec{b} $$ is a unit vector in the magnetic field direction.
 In the spherical components,
 
-$$\lt\alpha JM$$\|$$H_B$$\|$$\alpha JM'\gt=\mu_0B\sum\limits_{q}(-1)^{J+M+q+1}\sqrt{2J+1}$$ $$\begin{pmatrix} J& J$ 1\\ -M& M'& q\end{pmatrix}$$ $$\times(\sqrt{J(J+1)}+\lt\alpha J\|\vec{S}\|\alpha J\gt)b_{-q} $$
+\\[\lt\alpha JM \| H_B \|\alpha JM'\gt=\mu_0B\sum\limits_{q}(-1)^{J+M+q+1}\sqrt{2J+1} \begin{pmatrix} J& J& 1\\ -M& M'& q\end{pmatrix} \times(\sqrt{J(J+1)}+\lt\alpha J\|\vec{S}\|\alpha J\gt)b_{-q} \\]
 
 
 \\[ \begin{matrix} 
