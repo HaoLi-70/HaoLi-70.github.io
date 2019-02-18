@@ -32,7 +32,7 @@ In the weak external magnetic fields, the in teraction between the quantum numbe
 The matrix element is given by 
 <code>|</code>
     
-$$\lt\alpha JM $$
+$$\lt\alpha JM\left| $$
 
 $$<\alpha JM$$\|$$H_B$$\|$$\alpha JM'>$$ $$=\mu_0B$$<$$\alpha JM$$\|$$(\vec{J}+\vec{B})\cdot\vec{b}$$\|$$\alpha JM'$$>
 
