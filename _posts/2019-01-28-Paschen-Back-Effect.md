@@ -89,6 +89,17 @@ There are, however, some special cases where the analytical calculations can be 
 <\beta LSJ\|\|\vec{S}\|\|\beta' L'S'J'>]\delta_{MM'}.
 \end{split}\\]
 
+We now recall that in the LS coupling scheme the energies \\( E_{\beta LS}(J) \\) of the different \\(J\\) levels origination from a given term are determined by the spin-orbit Hamiltonian \\( H_{so}\\) (included in \\(H_0\\)).
+We have that the only non-zero matrix elements are those of the form 
+
+\\[<\beta LSJM\|H_{so}+H_B\|\beta LSJM>=E_{\beta LS}(J)+\mu_0Bg_{LS}(J)M\\]
+
+\\[[ \begin{split}
+&<\beta LSJ-1M\|H_{so}+H_B\|\beta LSJM>=[<\beta LSJM\|H_{so}+H_B\|\beta LSJ-1M> \\\
+&=-\frac{\mu_0B}{2J}\sqrt{\frac{(J+S+L+1)(J-S+L)(J+S-L)(-J+S+L+1)(J^2-M^2)}{(2J+1)(2J-1)}}.
+\end{split}\\]
+
+
 # Complete Paschen-Back Effect
 
 When the external magnetic field is sufficiently strong to disrupt the LS coupling, the energy eigenvectors gradually evolve from the form \\( \|\beta LSJM> \\) to the form \\( \|\beta LSM_LM_S> \\). The eigenvalues are given by 
