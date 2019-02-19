@@ -25,7 +25,7 @@ The second term is the so called diamagnetic term, and not important except for 
 
 # Russell–Saunders Coupling
 
-In light atoms, electron spins $$s_i$$ interact among themselves so they combine to form a total spin angular momentum S. The same happens with orbital angular momenta $$l_i$$, forming a total orbital angular momentum L. The interaction between the quantum numbers L and S is called Russell–Saunders coupling or LS coupling. Then S and L couple together and form a total angular momentum J.
+In light atoms, electron spins \\(s_i\\) interact among themselves so they combine to form a total spin angular momentum S. The same happens with orbital angular momenta \\(l_i\\), forming a total orbital angular momentum L. The interaction between the quantum numbers L and S is called Russell–Saunders coupling or LS coupling. Then S and L couple together and form a total angular momentum J.
 
 # Landé Interval Rule
 
@@ -52,11 +52,12 @@ In the spherical components, we have
 
 Aligning the \\(z\\)-axis of reference system with the direction of the magnetic field, the only non-zero component of the unit vector \\(\vec{b}\\) is \\(b_0=1\\). Therefore
 
-\\[<\alpha JM\|H_B\|\alpha JM'>=\mu_0BgM\delta_{MM'}\\]
+\\[<\alpha JM\|H_B\|\alpha JM'>=\mu_0Bg_{LS}M\delta_{MM'},\\]
 
-where g is the Land\\(\rm \acute{e}\\) factor. While the eigenvalues are given by
+where $$g_{LS}$$ is the Land\\(\rm \acute{e}\\) factor. 
+While the eigenvalues are given by
 
-\\[E_{\alpha J}+\mu_0gBM\\]
+\\[E_{\alpha J}+\mu_0g_{LS}BM.\\]
 
 
 
