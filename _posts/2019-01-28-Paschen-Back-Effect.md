@@ -25,13 +25,13 @@ The second term is the so called diamagnetic term, and not important except for 
 
 # Russell–Saunders Coupling
 
-In light atoms, electron spins $$s_i$$ interact among themselves so they combine to form a total spin angular momentum S. The same happens with orbital angular momenta $$l_i$$, forming a total orbital angular momentum L. The interaction between the quantum numbers L and S is called Russell–Saunders coupling or LS coupling. Then S and L couple together and form a total angular momentum J
+In light atoms, electron spins $$s_i$$ interact among themselves so they combine to form a total spin angular momentum S. The same happens with orbital angular momenta $$l_i$$, forming a total orbital angular momentum L. The interaction between the quantum numbers L and S is called Russell–Saunders coupling or LS coupling. Then S and L couple together and form a total angular momentum J.
 
-# Land$$\rm \acute{e}$$ Interval Rule
+# Landé Interval Rule
 
-If the interaction between orbit and spin angular momenta of an electron is weak, the energy levels of each (i.e. the spin and orbit) are split. Subsequently, each have a different angular momentum. The rule states that as a result of this, the frequency interval between successive energy levels is proportional to the larger of their total angular momentum values (J)
+If the interaction between orbit and spin angular momenta of an electron is weak (LS coupling), the interval between successive energy levels is proportional to the total angular momentum values J.
 
-\\[E_{\beta LS}(J)-E_{\beta LS}(J-1)=\zeta(\beta LS)J\\] 
+\\[E_{\beta LS}(J)-E_{\beta LS}(J-1)=\zeta(\beta LS)J.\\] 
 
 
 # Zeeman Effect
