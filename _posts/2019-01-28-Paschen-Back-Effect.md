@@ -86,8 +86,8 @@ There are, however, some special cases where the analytical calculations can be 
 <\beta LSJM\|H_B\|\beta'L'S'J'M'>&=\mu_0B[M\delta_{\beta\beta'}\delta_{LL'}\delta_{SS'}\delta_{JJ'} \\\
 &+(-1)^{J'+M+1}\sqrt{2J+1}
 \begin{pmatrix} J& J'& 1 \\\ -M& M& q\end{pmatrix} 
-<\beta LSJ\|\|\vec{S}\|\|\beta' L'S'J'>]\delta_{MM'}
-\end{split}. \\]
+<\beta LSJ\|\|\vec{S}\|\|\beta' L'S'J'>]\delta_{MM'}.
+\end{split}\\]
 
 # Complete Paschen-Back Effect
 
