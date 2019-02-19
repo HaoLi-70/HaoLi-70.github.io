@@ -25,7 +25,7 @@ The second term is the so called diamagnetic term, and not important except for 
 
 # Zeeman Effect
 
-In the weak external magnetic fields, the in teraction between the orbital (\\(\vec{L}\\)) and spin (\\(\vec{S}\\)) angular momenta is called LS coupling.
+In the weak external magnetic fields, the interaction between the orbital (\\(\vec{L}\\)) and spin (\\(\vec{S}\\)) angular momenta is called LS coupling.
 The matrix element is given by 
     
 \\[\lt\alpha JM \| H_B \| \alpha JM'\gt=\mu_0B\lt\alpha JM \| (\vec{J}+\vec{B})\cdot\vec{b} \| \alpha JM'\gt\\]
@@ -47,7 +47,7 @@ where g is the Land\\(\rm \acute{e}\\) factor. While the eigenvalues are given b
 
 \\[E_{\alpha J}+\mu_0gBM\\]
 
-Land\\(\rm \acute{e}\\) interval rule
+# Land$$\acute{e}$$ interval rule
 
 \\[E_{\beta LS}(J)-E_{\beta LS}(J-1)=\zeta(\beta LS)J\\]
 
