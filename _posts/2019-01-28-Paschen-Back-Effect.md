@@ -94,12 +94,12 @@ We have that the only non-zero matrix elements are those of the form
 
 \\[<\beta LSJM\|H_{so}+H_B\|\beta LSJM>=E_{\beta LS}(J)+\mu_0Bg_{LS}(J)M\\]
 
-\\[[ \begin{split}
+\\[ \begin{split}
 &<\beta LSJ-1M\|H_{so}+H_B\|\beta LSJM>=[<\beta LSJM\|H_{so}+H_B\|\beta LSJ-1M> \\\
 &=-\frac{\mu_0B}{2J}\sqrt{\frac{(J+S+L+1)(J-S+L)(J+S-L)(-J+S+L+1)(J^2-M^2)}{(2J+1)(2J-1)}}.
 \end{split}\\]
 
-The diagonalization of the matrix gives the energy eigenvalues \\(\lambda_j()\beta LS,M). 
+The diagonalization of the matrix gives the energy eigenvalues \\( \lambda_j(\beta LS,M) \\). 
 The diagonalization of the matrix can be performed analytically for doublet terms only \\( (S=1/2) \\).
 The energy eigenvalues are found to be 
 
