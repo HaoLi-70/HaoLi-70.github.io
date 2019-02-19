@@ -31,7 +31,9 @@ In light atoms, electron spins \\( s_i \\) interact among themselves so they com
 
 If the interaction between orbit and spin angular momenta of an electron is weak (LS coupling), the interval between successive energy levels is proportional to the total angular momentum values \\( J \\).
 
-\\[ E_{\beta LS}(J)-E_{\beta LS}(J-1)=\zeta(\beta LS)J. \\] 
+\\[ E_{\beta LS}(J)-E_{\beta LS}(J-1)=\zeta(\beta LS)J, \\] 
+
+where \zeta(\beta LS) is a constant for the energy level.
 
 
 # Zeeman Effect
@@ -58,8 +60,6 @@ where \\( g_{LS} \\) is the Landé factor.
 While the eigenvalues are given by
 
 \\[ E_{\alpha J}+\mu_0g_{LS}BM. \\]
-
-
 
 # Incomplete Paschen-Back Effect
 
