@@ -23,7 +23,5 @@ The second term is the so called diamagnetic term, and not important except for 
 
 \\[H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\mu_0(\vec{L}+2\vec{S})\cdot\vec{B}.\\]
 
-# Russell–Saunders Coupling
 
-In light atoms, electron spins \\(s_i\\) interact among themselves so they combine to form a total spin angular momentum \\(S \\). The same happens with orbital angular momenta \\(l_i\\), forming a total orbital angular momentum \\(L\\). The interaction between the quantum numbers \\(L\\) and \\(S\\) is called Russell–Saunders coupling or LS coupling. Then \\(S\\) and \\(L\\) couple together and form a total angular momentum \\(J\\).
 
