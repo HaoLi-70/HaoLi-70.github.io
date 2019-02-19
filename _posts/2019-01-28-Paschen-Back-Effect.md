@@ -49,6 +49,10 @@ where g is the Land\\(\rm \acute{e}\\) factor. While the eigenvalues are given b
 
 # Land$$\rm \acute{e}$$ interval rule
 
+The Landé interval rule states that if the spin-orbit interactions of an electron are weak, the energy levels of each (i.e. the spin and orbit) are split. Subsequently, each have a different angular momentum. The rule states that as a result of this, the frequency interval between successive energy levels is proportional to the larger of their total angular momentum values (J).[1][2]
+
+
+
 \\[E_{\beta LS}(J)-E_{\beta LS}(J-1)=\zeta(\beta LS)J\\]
 
 # Incomplete Paschen-Back Effect
