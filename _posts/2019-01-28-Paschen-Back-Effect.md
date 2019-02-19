@@ -11,9 +11,9 @@ comments: true
 
 # Hamiltonian
 
-The total Hamiltonian $$\vec{H}$$ of an atomic system in a magnetic field is given by
+The total Hamiltonian \\( H \\)  of an atomic system in a magnetic field is given by
 
-\\[H=H_0+H_B\\]
+\\[ H=H_0+H_B, \\]
 
 
 
