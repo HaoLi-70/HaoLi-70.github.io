@@ -35,10 +35,9 @@ If the interaction between orbit and spin angular momenta of an electron is weak
 
 where \zeta(\beta LS) is a constant for the energy level.
 
-
 # Zeeman Effect
 
-In the weak external magnetic fields, the interaction between the orbital \\( (\vec{L}) \\) and spin \\( (\vec{S}) \\) angular momenta is desctibed by LS coupling.
+In the weak external magnetic fields, the interaction between the orbital \\( (\vec{L}) \\) and spin \\( (\vec{S}) \\) angular momenta is described by LS coupling.
 The matrix element is given by 
     
 \\[ <\alpha JM \| H_B \| \alpha JM'>=\mu_0B<\alpha JM \| (\vec{J}+\vec{B})\cdot\vec{b} \| \alpha JM'>, \\]
@@ -63,23 +62,32 @@ While the eigenvalues are given by
 
 # Incomplete Paschen-Back Effect
 
-When the external magnetic field is sufficiently strong to disrupt the LS coupling (the splitting of the \\( J \\) level is comparable with the energy separation between different \\( J \\) levels ), the splitting of the atomic levels is called Paschen-Back effect.
+When the splitting of the \\( J \\) level is comparable with the energy separation between different \\( J \\) levels, the splitting of the atomic levels is called Paschen-Back effect.
 
 \\[ \begin{split}
-\lt\alpha JM \| H_B \|\alpha'J'M'\gt=&\mu_0B\sum\limits_{q}(-1)^{J'+M+q+1}\sqrt{2J+1} 
+<\alpha JM \| H_B \|\alpha'J'M'>&=\mu_0B\sum\limits_{q}(-1)^{J'+M+q +1}\sqrt{2J+1} 
 \begin{pmatrix} J& J'& 1 \\\ -M& M'& q\end{pmatrix} \\\ 
-&\times\[\sqrt{J(J+1)}\delta_{\alpha\alpha'}\delta_{JJ'}+\lt\alpha J\|\|\vec{S}\|\|\alpha'J'\gt\]b_{-q} 
-\end{split}. \\]
+&\times\[\sqrt{J(J+1)}\delta_{\alpha\alpha'}\delta_{JJ'}+<\alpha J\|\|\vec{S}\|\|\alpha'J'>\]b_{-q} 
+\end{split}, \\]
 
+where \\( <\alpha J\|\|\vec{S}\|\|\alpha'J'> \\) is the so-called reduced matrix element.
 When the quantization axis is in the magnetic field direction,
 
 \\[ \begin{split}
-\lt\alpha JM \| H_B \|\alpha'J'M'\gt=&\mu_0B\[M\delta_{\alpha\alpha'}\delta_{JJ'}+(-1)^{J'+M+q+1}\sqrt{2J+1} 
+<\alpha JM \| H_B \|\alpha'J'M'>&=\mu_0B\[M\delta_{\alpha\alpha'}\delta_{JJ'}+(-1)^{J'+M+q+1}\sqrt{2J+1} 
 \begin{pmatrix} J& J'& 1 \\\ -M& M'& q\end{pmatrix} \\\ 
-&\times[\sqrt{J(J+1)}\delta_{\alpha\alpha'}\delta_{JJ'}+\lt\alpha J\|\|\vec{S}\|\|\alpha'J'\gt\]\delta_{MM'}
+&\times[\sqrt{J(J+1)}\delta_{\alpha\alpha'}\delta_{JJ'}+<\alpha J\|\|\vec{S}\|\|\alpha'J'>\]\delta_{MM'}
 \end{split} \\]
 
+The general problem of finding the eigenvalues and the eigenvectors of the matrix can be solved only by nymerical methods.
+There are, however, some special cases where the analytical calculations can be pushed somewhat further. If we suppose, for instance, that the atomic system is exactly described the LS coupling scheme, the eigenstates are of the the form \\( \|\beta LSJM> \\) (where \\( \beta \\) summarizes the electronic configuration quantum numbers), then we have
 
+\\[ \begin{split}
+<\beta LSJM\|H_B\|\beta'L'S'J'M'>&=\mu_0B[M\delta_{\beta\beta'}\delta_{LL'}\delta_{SS'}\delta_{JJ'} \\\
+&+(-1)^{J'+M+1}\sqrt{2J+1}
+\begin{pmatrix} J& J'& 1 \\\ -M& M& q\end{pmatrix} 
+<\beta LSJ\|\|\vec{S}\|\|\beta' L'S'J'>]\delta_{MM'}
+\end{split}. \\]
 
 # Complete Paschen-Back Effect
 
