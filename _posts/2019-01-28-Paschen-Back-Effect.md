@@ -15,7 +15,7 @@ The total Hamiltonian  of an atomic system in a magnetic field is given by
 
 \\[H=H_0+H_B,\\]
 
-
+\\[H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}+\frac{e_0^2}{8mc^2}(\vec{B}\times\vec{r})^2.\\]
 
 
 
