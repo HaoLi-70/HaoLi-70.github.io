@@ -50,7 +50,7 @@ In the spherical components, we have
 &\times(\sqrt{J(J+1)}+<\alpha J\|\|\vec{S}\|\|\alpha J>)b_{-q} 
 \end{split}. \\]
 
-Aligning the \\( z \\)-axis of reference system with the direction of the magnetic field, the only non-zero component of the unit vector \\( \vec{b} \\) is \\( b_0=1 \\). Therefore
+if one chooses the magnetic field direction as the quantization axis, the only non-zero component of the unit vector \\( \vec{b} \\) is \\( b_0=1 \\). Therefore
 
 \\[ <\alpha JM\|H_B\|\alpha JM'>=\mu_0Bg_{LS}M\delta_{MM'}, \\]
 
@@ -71,7 +71,7 @@ When the external magnetic field is sufficiently strong to disrupt the LS coupli
 &\times\[\sqrt{J(J+1)}\delta_{\alpha\alpha'}\delta_{JJ'}+\lt\alpha J\|\|\vec{S}\|\|\alpha'J'\gt\]b_{-q} 
 \end{split}. \\]
 
-When the quantization axis for \\( \vec{J} \\) is in the magnetic field direction,
+When the quantization axis is in the magnetic field direction,
 
 \\[ \begin{split}
 \lt\alpha JM \| H_B \|\alpha'J'M'\gt=&\mu_0B\[M\delta_{\alpha\alpha'}\delta_{JJ'}+(-1)^{J'+M+q+1}\sqrt{2J+1} 
