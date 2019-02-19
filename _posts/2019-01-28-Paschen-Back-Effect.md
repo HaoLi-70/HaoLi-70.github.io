@@ -83,9 +83,9 @@ The general problem of finding the eigenvalues and the eigenvectors of the matri
 There are, however, some special cases where the analytical calculations can be pushed somewhat further. If we suppose, for instance, that the atomic system is exactly described the LS coupling scheme, the eigenstates are of the the form \\( \|\beta LSJM> \\) (where \\( \beta \\) summarizes the electronic configuration quantum numbers), then we have
 
 \\[ \begin{split}
-<\beta LSJM\|H_B\|\beta'L'S'J'M'>&=\mu_0B[M\delta_{\beta\beta'}\delta_{LL'}\delta_{SS'}\delta_{JJ'} \\\
-&+(-1)^{J'+M+1}\sqrt{2J+1}
-\begin{pmatrix} J& J'& 1 \\\ -M& M& q\end{pmatrix} 
+<\beta LSJM\|H_B\|\beta'L'S'J'M'>&=\mu_0B[M\delta_{\beta\beta'}\delta_{LL'}\delta_{SS'}\delta_{JJ'} 
++(-1)^{J'+M+1}\sqrt{2J+1} \\\
+&\times\begin{pmatrix} J& J'& 1 \\\ -M& M& q\end{pmatrix} 
 <\beta LSJ\|\|\vec{S}\|\|\beta' L'S'J'>]\delta_{MM'}.
 \end{split}\\]
 
