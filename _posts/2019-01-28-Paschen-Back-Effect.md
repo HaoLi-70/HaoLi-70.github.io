@@ -33,7 +33,7 @@ If the interaction between orbit and spin angular momenta of an electron is weak
 
 \\[ E_{\beta LS}(J)-E_{\beta LS}(J-1)=\zeta(\beta LS)J, \\] 
 
-where \zeta(\beta LS) is a constant for the energy level.
+where \\( \zeta(\beta LS) \\) is a constant for the energy level.
 
 # Zeeman Effect
 
