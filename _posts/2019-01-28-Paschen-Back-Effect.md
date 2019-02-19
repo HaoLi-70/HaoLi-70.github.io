@@ -15,7 +15,7 @@ The total Hamiltonian \\( H \\) of an atomic system in a magnetic field is given
 
 \\[ H=H_0+H_B, \\]
 
-where $$ H_0 $$ and $$ H_B $$ are the unperturbed and magnetic Hamiltonians, respectively. The magnetic Hamiltonian $$ H_B $$ is given by 
+where \\( H_0 \\) and \\( H_B \\) are the unperturbed and magnetic Hamiltonians, respectively. The magnetic Hamiltonian \\( H_B \\) is given by 
 
 \\[ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}+\frac{e_0^2}{8mc^2}(\vec{B}\times\vec{r})^2.v\\]
 
@@ -49,9 +49,10 @@ In the spherical components, we have
 <\alpha JM \| H_B \|\alpha JM'>=&\mu_0B\sum\limits_{q}(-1)^{J+M+q+1}\sqrt{2J+1} 
 \begin{pmatrix} J& J& 1 \\\ -M& M'& q\end{pmatrix} \\\ 
 &\times(\sqrt{J(J+1)}+<\alpha J\|\|\vec{S}\|\|\alpha J>)b_{-q} 
-\end{split}. \\]
+\end{split}, \\]
 
-if one chooses the magnetic field direction as the quantization axis, the only non-zero component of the unit vector \\( \vec{b} \\) is \\( b_0=1 \\). Therefore
+where \\( <\alpha J\|\|\vec{S}\|\|\alpha'J'> \\) is the so-called reduced matrix element.
+If one chooses the magnetic field direction as the quantization axis, the only non-zero component of the unit vector \\( \vec{b} \\) is \\( b_0=1 \\). Therefore
 
 \\[ <\alpha JM\|H_B\|\alpha JM'>=\mu_0Bg_{LS}M\delta_{MM'}, \\]
 
@@ -68,9 +69,8 @@ When the splitting of the \\( J \\) level is comparable with the energy separati
 <\alpha JM \| H_B \|\alpha'J'M'>&=\mu_0B\sum\limits_{q}(-1)^{J'+M+q +1}\sqrt{2J+1} 
 \begin{pmatrix} J& J'& 1 \\\ -M& M'& q\end{pmatrix} \\\ 
 &\times\[\sqrt{J(J+1)}\delta_{\alpha\alpha'}\delta_{JJ'}+<\alpha J\|\|\vec{S}\|\|\alpha'J'>\]b_{-q} 
-\end{split}, \\]
+\end{split}. \\]
 
-where \\( <\alpha J\|\|\vec{S}\|\|\alpha'J'> \\) is the so-called reduced matrix element.
 When the quantization axis is in the magnetic field direction,
 
 \\[ \begin{split}
