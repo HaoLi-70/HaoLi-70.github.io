@@ -99,6 +99,18 @@ We have that the only non-zero matrix elements are those of the form
 &=-\frac{\mu_0B}{2J}\sqrt{\frac{(J+S+L+1)(J-S+L)(J+S-L)(-J+S+L+1)(J^2-M^2)}{(2J+1)(2J-1)}}.
 \end{split}\\]
 
+The diagonalization of the matrix gives the energy eigenvalues \\(\lambda_j()\beta LS,M). 
+The diagonalization of the matrix can be performed analytically for doublet terms only \\( (S=1/2) \\).
+The energy eigenvalues are found to be 
+
+\\[\lambda_1=\frac{1}{2}L\zeta+\mu_0B\frac{L+1}{L+1/2}M\\]
+
+for \\(M=\pm(L+1/2)\\), and 
+
+\\[\lambda_{1,2}=-\frac{1}{4}\zeta+\mu_0BM\pm\frac{1}{2}\sqrt{\zeta^2(L+\frac{1}{2})^2+2\zeta\mu_0BM+(\mu_0B)^2}\\]
+
+for \\(M\neq\pm(L+1/2)\\).
+In all the other cases, the diagonalization can be performed only by numerical methods.
 
 # Complete Paschen-Back Effect
 
