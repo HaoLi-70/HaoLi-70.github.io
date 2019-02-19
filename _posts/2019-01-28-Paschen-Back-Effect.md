@@ -23,6 +23,17 @@ The second term is the so called diamagnetic term, and not important except for 
 
 \\[ H_B=\frac{e_0h}{4\pi mc}(\vec{L}+2\vec{S})\cdot\vec{B}=\mu_0(\vec{L}+2\vec{S})\cdot\vec{B}. \\]
 
+# Russell–Saunders Coupling
+
+In light atoms, electron spins $$s_i$$ interact among themselves so they combine to form a total spin angular momentum S. The same happens with orbital angular momenta $$l_i$$, forming a total orbital angular momentum L. The interaction between the quantum numbers L and S is called Russell–Saunders coupling or LS coupling. Then S and L couple together and form a total angular momentum J
+
+# Land$$\rm \acute{e}$$ Interval Rule
+
+If the interaction between orbit and spin angular momenta of an electron is weak, the energy levels of each (i.e. the spin and orbit) are split. Subsequently, each have a different angular momentum. The rule states that as a result of this, the frequency interval between successive energy levels is proportional to the larger of their total angular momentum values (J)
+
+\\[E_{\beta LS}(J)-E_{\beta LS}(J-1)=\zeta(\beta LS)J\\] 
+
+
 # Zeeman Effect
 
 In the weak external magnetic fields, the interaction between the orbital (\\(\vec{L}\\)) and spin (\\(\vec{S}\\)) angular momenta is called LS coupling.
@@ -47,13 +58,7 @@ where g is the Land\\(\rm \acute{e}\\) factor. While the eigenvalues are given b
 
 \\[E_{\alpha J}+\mu_0gBM\\]
 
-# Land$$\rm \acute{e}$$ interval rule
 
-The Landé interval rule states that if the spin-orbit interactions of an electron are weak, the energy levels of each (i.e. the spin and orbit) are split. Subsequently, each have a different angular momentum. The rule states that as a result of this, the frequency interval between successive energy levels is proportional to the larger of their total angular momentum values (J).[1][2]
-
-
-
-\\[E_{\beta LS}(J)-E_{\beta LS}(J-1)=\zeta(\beta LS)J\\]
 
 # Incomplete Paschen-Back Effect
 
