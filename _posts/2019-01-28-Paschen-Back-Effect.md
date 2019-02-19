@@ -103,10 +103,8 @@ The ratio between the Zeeman splitting and the fine-structure energy is defined 
 
 Then we have:
 
-\\( \gamma\ll 1 \\), Zeeman effect regime
+\\( \gamma\ll 1 \\), Zeeman effect regime.
 
-\\( \gamma\approx 1 \\), Incomplete Paschen-Back effect regime
+\\( \gamma\approx 1 \\), Incomplete Paschen-Back effect regime.
 
-\\( \gamma\gg 1 \\), Complete Paschen-Back effect regime
-
-
+\\( \gamma\gg 1 \\), Complete Paschen-Back effect regime.
