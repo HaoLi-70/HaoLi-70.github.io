@@ -37,7 +37,7 @@ where \\( \zeta(\beta LS) \\) is a constant for the energy level.
 
 # Zeeman Effect
 
-In the weak external magnetic fields, the interaction between the orbital \\( (\vec{L}) \\) and spin \\( (\vec{S}) \\) angular momenta is described by LS coupling.
+In the weak external magnetic fields, the interaction between the orbital \\( (L) \\) and spin \\( S}) \\) angular momenta is described by LS coupling.
 The matrix element is given by 
     
 \\[ \lt\alpha JM \| H_B \| \alpha JM'\gt=\mu_0B\lt\alpha JM \| (\vec{J}+\vec{B})\cdot\vec{b} \| \alpha JM'\gt, \\]
