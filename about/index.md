@@ -10,6 +10,6 @@ comments: false
 
 ## Interests
 
-what I am doing with my whole life is to find out who I am.
+What I am doing with my whole life is to find out who I am.
 
-At present, my research focuses on the theory of polarization in spectral lines, and the diagnostic perspective theirof.
+At present, my research focuses on the theory of polarization in spectral lines, and the diagnostic perspective thereof.
