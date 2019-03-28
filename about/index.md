@@ -6,7 +6,7 @@ date: 2019-01-28
 comments: false
 ---
     
-<center>Everyday is a new world.</center>
+<center>不忘初心 方得始终.</center>
 
 ## Interests
 
