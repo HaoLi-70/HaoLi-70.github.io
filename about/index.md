@@ -12,8 +12,8 @@ comments: false
 
 What I am doing with my whole life is to find out who I am.
 
-At present, my research focuses on the theory of polarization in spectral lines, and the diagnostic perspective thereof.
+At present, my research focuses on the theory of polarization in spectral lines, and the development of diagnostic tools for exploring the magnetic field in the solar atmosphere.
 
 ## Contact me
 
-sayahoro@ynao.ac.cn
+hli@iac.es
