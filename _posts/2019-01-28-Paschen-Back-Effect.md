@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes: The Zeeman and Paschen-Back Effects"
 date:   2019-01-28
-excerpt: "test"
+excerpt: "Notes"
 tag:
 - polarization 
 - magnetic field
