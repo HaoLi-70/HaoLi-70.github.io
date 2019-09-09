@@ -226,3 +226,5 @@ Another option, different from the root, could be, without knowing the particula
 路上还算顺利，来到西班牙，开始在板鸭的生活。
 办签证的过程中，我们往返了北京三次，花了不少时间和金钱呐，不过结果是好的，那也都是值得了。
 希望我们的经验能给大家带来帮助，也希望所有小伙伴都能顺利出签！
+
+好想回国吃吃吃～～
